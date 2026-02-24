@@ -1,0 +1,213 @@
+<span class="w3-text" id="button-to-open-services">See More</span>
+<span style="font-size:120px;"> </span>
+<span class="button-text">Sign In</span>
+<span class="button-loader"></span>
+<span class="user-progress-star">★</span>
+<span class="user-progress-point">+1</span>
+<span class="tnb-toggle-darkmode-slider fa" style="user-select:none;"><span style="position:absolute;left:0;top:-2px;"></span></span>
+<span style="position:absolute;left:0;top:-2px;"></span>
+<span class="tnb-title">My W3Schools</span>
+<span class="tnb-title">Tutorials</span>
+<span class="tnb-title">References</span>
+<span class="tnb-title">Exercises</span>
+<span class="tnb-title">Certificates</span>
+<span class="tnb-title">Spaces</span>
+<span class="tnb-title">Get Certified</span>
+<span class="tnb-title">Plus</span>
+<span class="tnb-title">Bootcamps</span>
+<span class="tnb-title">Academy</span>
+<span class="tnb-title">All our Services</span>
+<span class="tnb-title">Logout</span>
+<span>×</span>
+<span>×</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="ribbon-topnav" style="background-color: #d9212c; color: white">
+                      HOT!
+                    </span>
+<span class="ribbon-topnav ws-green">NEW</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="ribbon-topnav" style="background-color: #d9212c; color: white">
+                      HOT!
+                    </span>
+<span class="ribbon-topnav ws-green">NEW</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span style="
+                          color:#e9edf2;
+                          font-size:15px;
+                          font-weight:600;
+                          white-space:nowrap;
+                          overflow:hidden;
+                          text-overflow:ellipsis;
+                        ">
+                    Next Bootcamp: 16/03
+                  </span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="learn-span">Learn</span>
+<span class="ribbon-topnav" style="background-color: #d9212c; color: white">
+                      HOT!
+                    </span>
+<span class="ribbon-topnav ws-green">NEW</span>
+<span>×</span>
+<span>×</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Names</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span class="acctop-link-ref">Reference</span>
+<span>×</span>
+<span>×</span>
+<span>×</span>
+<span>×</span>
+<span class="ribbon-topnav ws-green" style="font-size: 13px; font-weight: normal">
+                      Best Value!
+                    </span>
+<span class="ribbon-topnav ws-green" style="font-size: 13px; font-weight: normal">
+                      Best Value!
+                    </span>
+<span class="ribbon-topnav ws-green" style="font-size: 13px; font-weight: normal">
+                      Best Value!
+                    </span>
+<span>×</span>
+<span class="w3-text" id="tnb-darkmode-tooltip">Dark mode</span>
+<span class="tnb-toggle-darkmode-slider fa" style="user-select:none;"><span style="position:absolute;left:-1px;top:-2px"></span></span>
+<span style="position:absolute;left:-1px;top:-2px"></span>
+<span>×</span>
+<span alt="Smiley" class="w3-hide-medium" style="
+                          margin-left: 15px;
+                          width: 35px;
+                          position: absolute;
+                          top: 15px;
+                          right: 15px;
+                          display: inline-block;
+                        ">😊</span>
+<span style="float: right">sales@w3schools.com</span>
+<span style="float: right">help@w3schools.com</span>
+<span>×</span>
+<span onmousedown="scrollmenow(-1)" onmouseout="stopscrollmenow()" onmouseup="stopscrollmenow()">   ❮   </span>
+<span onmousedown="scrollmenow(1)" onmouseout="stopscrollmenow()" onmouseup="stopscrollmenow()">     ❯   </span>
+<span>
+<a class="topnav-icons fa fa-menu w3-hide-large w3-left w3-bar-item w3-button ga-nav" href="javascript:void(0);" onclick="open_menu()" style="line-height:1.1;padding-top:8px!important;padding-bottom:8px!important;" title="Menu"></a>
+</span>
+<span class="left_h2">DSA</span>
+<span class="left_h2">Arrays</span>
+<span class="left_h2">Linked Lists</span>
+<span style="font-size:90%"> in Memory</span>
+<span class="left_h2">Stacks &amp; Queues</span>
+<span class="left_h2">Hash Tables</span>
+<span class="left_h2">Trees</span>
+<span class="left_h2">Graphs</span>
+<span class="left_h2">Shortest Path</span>
+<span class="left_h2">Minimum Spanning Tree</span>
+<span class="left_h2">Maximum Flow</span>
+<span class="left_h2">Time</span>
+<span class="left_h2">DSA Reference</span>
+<span class="left_h2">DSA Examples</span>
+<span class="color_h1">Selection Sort</span>
+<span class="math display">\[ O( \frac{n}{2} \cdot n) = \underline{\underline{O(n^2)}} \]</span>
+<span class="user-progress-star">★</span>
+<span class="user-progress-point">+1</span>
+<span class="fa fa-youtube ga-right w3-hover-text-red" style="font-size:25px;"></span>
+<span class="fa fa-linkedin-square ga-right" style="font-size:25px;"></span>
+<span class="fa fa-discord ga-right" style="font-size:25px;"></span>
+<span class="fa fa-facebook-square ga-right" style="font-size:25px;"></span>
+<span class="fa fa-instagram ga-right" style="font-size:25px;"></span>
+<span class="fa fa-tiktok ga-right w3-hover-text-grey" style="font-size:20px;"></span>
+<span id="close_err_message" onclick="this.parentElement.style.display='none'">×</span>

@@ -1,0 +1,10 @@
+Content-Type: text/html; charset=UTF-8
+Content-Security-Policy: frame-ancestors 'self' https://mycourses.w3schools.com https://pathfinder.w3schools.com;
+X-Content-Security-Policy: frame-ancestors 'self' https://mycourses.w3schools.com https://pathfinder.w3schools.com;
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 47258
+Cache-Control: public, max-age=9039
+Expires: Tue, 24 Feb 2026 03:19:30 GMT
+Date: Tue, 24 Feb 2026 00:48:51 GMT
+Connection: keep-alive
